@@ -3,4 +3,10 @@
   "section.general.description": "Opções de configuração de funções em geral.",
   "section.controls.name": "Controles",
   "section.controls.description": "Configurações de controle/teclado."
+  "config.animal-shop-limit.name": "Limite da loja de animais",
+  "config.animal-shop-limit.tooltip": "Quantos animais podem ser exibidos de cada vez.",
+  "config.next-page.name": "Botão Próxima Página",
+  "config.next-page.tooltip": "Tecla para mostrar a próxima página",
+  "config.previous-page.name": "Botão Voltar Página",
+  "config.previous-page.tooltip": "Tecla para mostrar a página anterior"
 }
